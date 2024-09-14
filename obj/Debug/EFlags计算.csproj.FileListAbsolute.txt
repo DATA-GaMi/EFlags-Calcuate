@@ -1,0 +1,10 @@
+E:\.Net\2024\EFlags计算\bin\Debug\EFlags计算.exe.config
+E:\.Net\2024\EFlags计算\bin\Debug\EFlags计算.exe
+E:\.Net\2024\EFlags计算\bin\Debug\EFlags计算.pdb
+E:\.Net\2024\EFlags计算\obj\Debug\EFlags计算.csproj.AssemblyReference.cache
+E:\.Net\2024\EFlags计算\obj\Debug\EFlags计算.Form1.resources
+E:\.Net\2024\EFlags计算\obj\Debug\EFlags计算.Properties.Resources.resources
+E:\.Net\2024\EFlags计算\obj\Debug\EFlags计算.csproj.GenerateResource.cache
+E:\.Net\2024\EFlags计算\obj\Debug\EFlags计算.csproj.CoreCompileInputs.cache
+E:\.Net\2024\EFlags计算\obj\Debug\EFlags计算.exe
+E:\.Net\2024\EFlags计算\obj\Debug\EFlags计算.pdb
